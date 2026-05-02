@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Neeraj
 
-<!--
-**neerajsahu-git/neerajsahu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student  
+📊 Aspiring Data Analyst  
+📈 Skilled in Excel and Data Handling  
+🐍 Building Python and SQL skills  
+🚀 Focused on real-world analytics projects
 
-Here are some ideas to get you started:
+## Skills
+- Excel (Intermediate)
+- SQL (Beginner)
+- Python (Basic)
+- Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Become job-ready in Data Analytics
+- Build strong portfolio projects
+- Learn AI and Data Science
