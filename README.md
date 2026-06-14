@@ -9,7 +9,7 @@
 ## Skills
 - Excel (Intermediate)
 - SQL (Beginner)
-- Python (Basic)
+- Python (Beginner)
 - Data Analytics
 
 ## Goals
