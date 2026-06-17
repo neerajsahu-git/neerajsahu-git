@@ -8,6 +8,8 @@
 
 ## Skills
 - Excel (Intermediate)
+- Power BI (beginner)
+- Power Query (Intermediate)
 - SQL (Beginner)
 - Python (Beginner)
 - Data Analytics
